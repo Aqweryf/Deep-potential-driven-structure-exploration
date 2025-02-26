@@ -1,2 +1,2 @@
-# Deep potential-driven structure exploration of ice polymorphs
+# Deep potential-driven structure exploration
 Uspex冰相结构预测示例代码
